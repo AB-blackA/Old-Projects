@@ -1,0 +1,27 @@
+1.  Did you accomplish everything you wanted in the project?
+
+	No, a lot of the features I wanted in the game were not added or incomplete.
+	The game is a little buggy and the lack of a high score writer are the notable
+	additions that are lacking from the final project.
+
+2.  What did you have to change from your original proposal/plan? (What did you fail to plan for, or mis-planned?)
+
+	There were many different things I didn't account for, from variables to objects
+	to properly predicting whether or not variables/methods would be static, etc.
+	The general geist was there but it wasn't all there.
+
+3.  What was the toughest part of the final?
+
+	Realizing that I was banging my head against the wall trying to get minor things done
+	when I could've left some bugs/minor errors to get more done. Trying to fully
+	grasp how to make a player turn was also quite difficult.
+
+4.  What did you wish you knew better going into the final?
+
+	I wish I knew better to work on it earlier, as I didn't expect as much trouble
+	as I did and when I did my Professor wasn't always available to help.
+
+5.  What features could be added to your project?
+	
+	An actual Player Turn that prevents the player from acting during Simon's turn,
+	a high-score keeper, and possibly more graphics/images.
